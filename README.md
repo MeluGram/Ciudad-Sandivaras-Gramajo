@@ -1,2 +1,2 @@
 # Cuidad-Sandivaras-Gramajo
-TP LEnguajes informaticos uno
+TP Lenguajes informaticos uno
