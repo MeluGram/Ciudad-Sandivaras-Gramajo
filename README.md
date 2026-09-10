@@ -1,2 +1,2 @@
-# Cudad-Sandivaras-Gramajo
+# Cuidad-Sandivaras-Gramajo
 TP LEnguajes informaticos uno
